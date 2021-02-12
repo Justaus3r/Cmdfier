@@ -38,6 +38,7 @@ return
 StringReplace clipboard2, clipboard, \r\n, \n, All
 SendInput {Raw}%clipboard2%
 return
-^startnewsession::
+;startnewsession
+^s::
 Send start & cls{Enter}
 return
