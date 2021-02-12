@@ -11,6 +11,6 @@ start a new session with Ctrl+s
 | Date:         | Comment:                                       | 
 | ------------- |:-------------:                                 | 
 | 14-jan-2021   | Initial Release                                | 
-| 5-feb-2021    |Can create a new session with Ctrl+s            | 
+| 13-feb-2021    |Can create a new session with Ctrl+s            | 
 
 bug reports,suggestions and contributions welcome,mail anything at x-neron@pm.me
