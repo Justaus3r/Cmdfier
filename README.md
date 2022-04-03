@@ -15,4 +15,3 @@ start a new session with Ctrl+s
 
 bug reports,suggestions and contributions welcome,mail anything at x-neron@pm.me
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Justaus3r)
